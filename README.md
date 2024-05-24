@@ -1,4 +1,4 @@
-![image](https://github.com/singuyenvan0206/Postman_learn/assets/96609459/d7470185-5d65-4f1b-a84e-a518d9e74808)API test with Postman
+API test with Postman
 
 # Phân tích tài liệu API
 API được chọn là DogAPI, đây là API cung cấp cho người dùng thông tin về các giống chó và hình ảnh của chúng.
