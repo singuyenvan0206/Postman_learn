@@ -4,11 +4,17 @@ API test with Postman
 API được chọn là DogAPI, đây là API cung cấp cho người dùng thông tin về các giống chó và hình ảnh của chúng.
 
 -Base URL: https://dog.ceo/api/breeds
+
 -Các endpoint chính:
+
   o	List all breed: /list/all
+  
   o	Get random dog image: /image/random
+  
   o	Get images by breed: /{{breed_name}}/image
+  
   o Get sub-breed list: /{{breed_name}}/list
+  
 # Các trường hợp kiểm thử
 Trường hợp 1: Tra cứu tất cả các giống chó
 - Endpoint: https://dog.ceo/api/breeds/list/all
