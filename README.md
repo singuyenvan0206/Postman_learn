@@ -33,13 +33,17 @@ Trường hợp 3: Tra cứu giống chó không tồn tại
 Mục Tiêu Kiểm Thử:
 
 Xác định và xác thực các phản hồi của DogAPI dựa trên các truy vấn khác nhau.
+
 Phạm Vi Kiểm Thử:
 
 Các điểm cuối liên quan đến việc lấy dữ liệu về chó.
+
 Kết Quả Kiểm Thử:
 
 Tất cả các trường hợp kiểm thử được thực hiện và kết quả phù hợp với mong đợi.
+
 API hoạt động đúng với giống chó hợp lệ và xử lý các lỗi một cách thích hợp khi cung cấp dữ liệu không hợp lệ.
+
 Khuyến Nghị:
 
 API hoạt động tốt và xử lý các lỗi đúng cách. Khuyến nghị duy trì tài liệu chi tiết và cung cấp các ví dụ cụ thể để hỗ trợ người dùng API.
